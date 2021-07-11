@@ -1,0 +1,4 @@
+Un prestamo tiene como fecha de devolucion: fecha del prestamo + cantidad de dias de prestamo del libro con la menor cantidad.
+Linea de prestamo tiene fecha de devolucion el dia que se lo devuelve.
+
+Si un prestamo tiene mas de una linea de prestamo y el socio devuelve solo 1 y lo hace fuera de termino, se lo multa?
